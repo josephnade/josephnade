@@ -4,7 +4,7 @@
 - 📫 How to reach me:
 - E-mail: yusuf.akn2017@gmail.com
 - Instagram: https://www.instagram.com/yusuf.akn/
-- LinkedIn:  https://www.linkedin.com/in/yusuf-ak%C4%B1n-b3040a201/
+- LinkedIn:  www.linkedin.com/in/yusuf-akn
 
 <!---
 josephnade/josephnade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
