@@ -33,7 +33,7 @@
   <br>
   <p align="center">
     <code><img title="Flutter" height="25" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true"></code>
-    <code><img title="Firebase" height="25" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg"></code>
+    <code><img title="Firebase" height="25" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png"></code>
     <code><img title="Java" height="25" src="https://upload.wikimedia.org/wikipedia/tr/2/2e/Java_Logo.svg"></code>
     <code><img title="Python" height="25" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg"></code>
     <code><img title="Sci-kit-Learn" height="25" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
