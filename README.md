@@ -5,7 +5,6 @@
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
   </a>
   </h1>
-
   <h5 align="center">
     <code>
       <a href="https://www.linkedin.com/in/yusufakin/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/linkedin.svg"> LinkedIn</a></code>
