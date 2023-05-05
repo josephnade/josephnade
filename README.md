@@ -33,8 +33,11 @@
   <p align="center">
     <code><img title="Flutter" height="25" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true"></code>
     <code><img title="Firebase" height="25" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png"></code>
-    <code><img title="Java" height="25" src="https://upload.wikimedia.org/wikipedia/tr/2/2e/Java_Logo.svg"></code>
     <code><img title="Python" height="25" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg"></code>
+    <code><img title="Java" height="25" src="https://upload.wikimedia.org/wikipedia/tr/2/2e/Java_Logo.svg"></code>
+    <code><img title="Html" height="25" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></code>
+    <code><img title="Css" height="25" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></code>
+    <code><img title="JavaScript" height="25" src="https://www.clipartmax.com/png/middle/470-4707396_javascript-icon-html-css-js-icons.png"></code>
     <code><img title="Sci-kit-Learn" height="25" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
     <code><img title="Git" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/git-original.svg"></code>
     <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/github.svg"></code>
