@@ -15,12 +15,12 @@
     Hi, I'm Yusuf Akın, Mobile Developer with Flutter. 
     <br>
     <br>
-    🔬 I am currently studying Computer Engineer at ADU. I am going to gradute this year. (exactly in June)
+    🔬 I have bachelor degree of Computer Engineer at ADU.
     <br>
      <br>
     💻 I love writing code, learning new skills and information about my job.
     <br>
-    📚 I’m currently improving myself on Flutter and Firebase
+    📚 I’m currently improving myself on Flutter.
     <br>
     💬 Ask me anything about from <a href="https://github.com/josephnade/josephnade/issues" title="Issues">Here</a>
     <br>
